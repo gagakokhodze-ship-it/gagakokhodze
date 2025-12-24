@@ -1,0 +1,5 @@
+{
+  "name": "PolyglotChat",
+  "description": "A real-time multi-language chat application where every message is automatically translated into the user's preferred native language using Gemini AI.",
+  "requestFramePermissions": []
+}
